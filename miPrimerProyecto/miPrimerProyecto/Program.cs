@@ -8,8 +8,16 @@ namespace miPrimerProyecto
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
+            //uso de funciones..
+            Console.WriteLine("La sum de 10+5={0}", suma());
+            Console.ReadLine();
+            {
+                static int suma();
+                int respuesta = 10 + 5;
+                return respuesta;
+            }
         }
     }
 }
