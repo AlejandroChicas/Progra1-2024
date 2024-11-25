@@ -1,0 +1,5 @@
+C:\Users\josue\OneDrive\Escritorio\Progra1-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\josue\OneDrive\Escritorio\Progra1-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.Form1.resources
+C:\Users\josue\OneDrive\Escritorio\Progra1-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\academica.principal.resources
+C:\Users\josue\OneDrive\Escritorio\Progra1-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.GenerateResource.cache
+C:\Users\josue\OneDrive\Escritorio\Progra1-2024\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.CoreCompileInputs.cache
